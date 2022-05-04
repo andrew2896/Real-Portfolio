@@ -101,6 +101,11 @@ input:focus, textarea:focus {
   color: #cc0a0ac4 !important;
 }
 
+.orangeclick {
+  font-size: 28px;
+  cursor: pointer;
+}
+
 .link__hover-effect {
   position: relative;
 }
